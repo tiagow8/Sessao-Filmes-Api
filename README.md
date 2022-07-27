@@ -13,7 +13,7 @@
 <h2 id="sobreeee">Sobre</h2>
 
 
-
+Aqui se enontra os commits de backend usado para API em um crud
 O projeto é composto pelos metódos HTTP GET, POST, PUT, DELETE. 
 
 ⚠  projeto em constante evolução. 
@@ -31,7 +31,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 <br />
 
-<h2 id="tecnologias">🚀 Tecnologias</h2>
+<h2 id="tecnologias">🎯 Tecnologias</h2>
 
 * [Java](https://www.java.com/pt-BR/)
 
@@ -41,7 +41,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 <br />
 
-<h2 id="aprendizado">💻 O que eu pude praticar</h2>
+<h2 id="aprendizado">⚡ O que eu pude praticar</h2>
 
 * Criação de uma API usando a stack java, onde pude colocar em prática alguns conhecimentos que adquiri em um estágio não remunerado.
 
