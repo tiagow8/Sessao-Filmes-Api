@@ -10,7 +10,7 @@
 </p>
 
 
-<h2 id="sobreeee">💡 Sobreeee</h2>
+<h2 id="sobreeee">Sobre</h2>
 
 
 
