@@ -16,7 +16,7 @@
 
 O projeto é composto pelos metódos HTTP GET, POST, PUT, DELETE. 
 
-⚠ Obs: projeto em constante desenvolvimento. 
+⚠  projeto em constante evolução. 
 
 <br />
 
