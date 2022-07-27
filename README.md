@@ -27,7 +27,7 @@ Para clonar o projeto e rodá-lo localmente você pode seguir os passos abaixo:
 
 2. Fazer as mudanças necessárias no application.properties
 
-⚠ Obs: Juntamente com esta API, foi desenvolvida a aplicação Sessão Filmes. Visite [este repositório.](https://github.com/tiagow8/Sessao-Filmes-Crud.git) para mais informações. 
+⚠  Juntamente com esta API, foi desenvolvida a aplicação Sessão Filmes. Visite [este repositório.](https://github.com/tiagow8/Sessao-Filmes-Crud.git) para mais informações. 
 
 <br />
 
