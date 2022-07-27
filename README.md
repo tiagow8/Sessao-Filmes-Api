@@ -9,11 +9,6 @@
  <a href="#aprendizado">O que eu pude praticar</a>  
 </p>
 
-<br />
-
-https://user-images.githubusercontent.com/76455440/129614475-84482ea3-6be1-4176-80d7-b170115f906a.mp4
-
-<br />
 
 <h2 id="sobreeee">💡 Sobreeee</h2>
 
